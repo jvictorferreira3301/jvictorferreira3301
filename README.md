@@ -21,6 +21,6 @@ Meu nome é João Victor, sou estudante de Engenharia de Telecomunicações na U
 
 ## Contato
 
-- LinkedIn: [jvictorferreira3301](https://linkedin.com/in/sjvictorferreira3301/)
-
+- [João Victor Ferreira](https://linkedin.com/in/sjvictorferreira3301/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
 
