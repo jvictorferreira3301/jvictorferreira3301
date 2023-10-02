@@ -2,7 +2,7 @@
 
 ![GitHub Followers](https://img.shields.io/github/followers/jvictorferreira3301?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/jvictorferreira3301?style=social)
-![GitHub Contributions](https://img.shields.io/github/contributions/jvictorferreira3301)
+![GitHub Contributions](https://img.shields.io/github/contributions/jvictorferreira3301?style=social)
 
 Meu nome é João Victor, sou estudante de Engenharia de Telecomunicações na Universidade Federal do Pará (UFPA), atualmente no terceiro semestre, tenho interesse nas áreas de Machine Learning, Data Science e gosto de hardware de computadores por hobby. 
 
