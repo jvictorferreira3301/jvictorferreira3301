@@ -2,23 +2,18 @@
 
 ![GitHub Followers](https://img.shields.io/github/followers/jvictorferreira3301?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/jvictorferreira3301?style=social)
-![GitHub Contributions](https://img.shields.io/github/contributions/jvictorferreira3301?style=social)
 
 Meu nome é João Victor, sou estudante de Engenharia de Telecomunicações na Universidade Federal do Pará (UFPA), atualmente no terceiro semestre, tenho interesse nas áreas de Machine Learning, Data Science e gosto de hardware de computadores por hobby. 
 
 ## Sobre mim
 
-- 🌍 Localização: Belém-PA, Brasil
-- 💼 Ocupação: 
-- 🌱 Atualmente aprendendo: 
+- 🌍 Belém-PA, Brasil.
+- 💼 Pesquisador no [Núcleo de P&D em Telecomunicações, Automação e Eletrônica.](https://github.com/lasseufpa)  
 
-## Projetos em Destaque
+## Projetos
 
-Aqui estão alguns dos meus projetos em destaque:
-
-- [Nome do Projeto 1](link-para-o-projeto-1): 
-- [Nome do Projeto 2](link-para-o-projeto-2): 
-- [Nome do Projeto 3](link-para-o-projeto-3): 
+- 📡 [MIMO](https://github.com/jvictorferreira3301/Projeto-de-Engenharia-II): Implementação de Sistema de Comunicação Digital MIMO em C. 
+- 🐾 [HungryPet](https://github.com/jvictorferreira3301/HungryPet_Comedouro): Dispensor de ração programável utilizando arduino.
 
 ## Estatísticas
 
@@ -26,6 +21,6 @@ Aqui estão alguns dos meus projetos em destaque:
 
 ## Contato
 
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/sjvictorferreira3301)
+- LinkedIn: [jvictorferreira3301](https://linkedin.com/in/sjvictorferreira3301/)
 
 
