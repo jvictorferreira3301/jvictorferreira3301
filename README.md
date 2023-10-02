@@ -15,6 +15,15 @@ Meu nome é João Victor, sou estudante de Engenharia de Telecomunicações na U
 - 📡 [MIMO](https://github.com/jvictorferreira3301/Projeto-de-Engenharia-II): Implementação de Sistema de Comunicação Digital MIMO em C. 
 - 🐾 [HungryPet](https://github.com/jvictorferreira3301/HungryPet_Comedouro): Dispensor de ração programável utilizando arduino.
 
+## Ferramentas & Habilidades
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
 ## Estatísticas
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jvictorferreira3301&show_icons=true&theme=dark)
