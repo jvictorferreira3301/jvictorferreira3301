@@ -19,6 +19,5 @@ Sou estudante de Engenharia de Telecomunicações na Universidade Federal do Par
 
 ## 
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jvictorferreira3301&show_icons=true&theme=dark)
 
 
