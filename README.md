@@ -17,7 +17,7 @@ Meu nome é João Victor, sou estudante de Engenharia de Telecomunicações na U
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## Estatísticas
+## 
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jvictorferreira3301&show_icons=true&theme=dark)
 
