@@ -4,7 +4,7 @@ Sou estudante de Engenharia de Telecomunicações na Universidade Federal do Par
 
 ## Projetos
 
-- 📡 [MIMO](https://jvictorferreira3301.github.io/Projeto-de-Engenharia-II/): Implementação de Sistema de Comunicação Digital MIMO em. 
+- 📡 [MIMO](https://jvictorferreira3301.github.io/Projeto-de-Engenharia-II/): Implementação de Sistema de Comunicação Digital MIMO em C. 
 - 🐾 [HungryPet](https://github.com/jvictorferreira3301/HungryPet_Comedouro): Dispensor de ração programável utilizando arduino.
 
 ## Ferramentas & Habilidades
