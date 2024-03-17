@@ -6,6 +6,7 @@ I am a Telecommunications Engineering student at the Federal University of Pará
 
 - 📡 [MIMO](https://jvictorferreira3301.github.io/MIMO/): Implementation of MIMO Digital Communication System. 
 - 🐾 [HungryPet](https://github.com/jvictorferreira3301/HungryPet_Comedouro): Programmable food dispenser using Arduino.
+- 📖 [Bootor](https://ai6g.org/books/dsp/AnalogandDigitalSignals.html#analog-and-digital-signals): LaTeX-based methodologies for automatic book generation using CI/CD with support for MathML 
 
 ## Tools and Skills
 
