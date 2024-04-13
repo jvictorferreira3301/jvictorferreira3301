@@ -20,11 +20,14 @@ I am a Telecommunications Engineering student at the Federal University of Pará
 ![Shell Script](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=yellow)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<p align="center">
-<a href="https://github.com/jvictorferreira3301">
+<p align="center" style="display: flex; justify-content: center; align-items: center;">
+ <a href="https://github.com/jvictorferreira3301">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jvictorferreira3301&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
+ <a href="https://github.com/jvictorferreira3301">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jvictorferreira3301&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
+
 
 
 
