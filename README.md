@@ -4,7 +4,7 @@ I am a Telecommunications Engineering student at the Federal University of Pará
 
 ## Projects
 
-- 📡 [MIMO](https://lasseufpa.github.io/c_mimo/): Implementation of MIMO Digital Communication System. 
+- 📡 [MIMO](https://lasseufpa.github.io/C_MIMO/): Implementation of MIMO Digital Communication System. 
 - 🐾 [HungryPet](https://github.com/jvictorferreira3301/HungryPet_Comedouro): Programmable food dispenser using Arduino.
 - 📖 [Bootor](https://ai6g.org/books/dsp/AnalogandDigitalSignals.html#analog-and-digital-signals): LaTeX-based methodologies for automatic book generation using CI/CD with support for MathML 
 
