@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3695F7&random=false&width=435&lines=Hi!+I'm+Jo%C3%A3o+Victor+%F0%9F%91%BE,)](https://git.io/typing-svg)
+## My name is João Victor and ...
 
-I am a Telecommunications Engineering student at the Federal University of Pará (UFPA), currently in the fourth semester and Researcher at the [Núcleo de P&D em Telecomunicações, Automação e Eletrônica](https://github.com/lasseufpa). I am interested in the areas of Machine Learning, Data Science and i like computer hardware as a hobby.
+... i am a Telecommunications Engineering student at the Federal University of Pará (UFPA), currently in the fourth semester and Researcher at the [Núcleo de P&D em Telecomunicações, Automação e Eletrônica](https://github.com/lasseufpa). I am interested in the areas of Machine Learning, Data Science and i like computer hardware as a hobby.
 
 ## Projects
 
