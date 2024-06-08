@@ -4,7 +4,7 @@
 
 ## Projects
 
-- 📡 [C MIMO](https://lasseufpa/C_MIMO/): Implementation of MIMO Digital Communication System for educational purposes. 
+- 📡 [C MIMO](https://github.com/lasseufpa/c_mimo): Implementation of MIMO Digital Communication System for educational purposes. 
 - 🐾 [HungryPet](https://github.com/jvictorferreira3301/HungryPet_Comedouro): Programmable food dispenser using Arduino.
 - 📖 [Bootor](https://ai6g.org/books/dsp/AnalogandDigitalSignals.html#analog-and-digital-signals): LaTeX-based methodologies for automatic book generation using CI/CD with support for MathML 
 
