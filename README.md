@@ -1,6 +1,6 @@
-## My name is João Victor and ...
+## `~$ whoami` 
 
-... i am a Telecommunications Engineering student at the Federal University of Pará (UFPA), currently in the fourth semester and Researcher at the [Núcleo de P&D em Telecomunicações, Automação e Eletrônica](https://github.com/lasseufpa). I am interested in the areas of Machine Learning, Data Science and i like computer hardware as a hobby.
+I am a Telecommunications Engineering student at the Federal University of Pará (UFPA), currently in the fourth semester and Researcher at the [Núcleo de P&D em Telecomunicações, Automação e Eletrônica](https://github.com/lasseufpa). I am interested in the areas of Machine Learning, Data Science and i like computer hardware as a hobby.
 
 ## Some Projects
 
