@@ -2,13 +2,13 @@
 
 I am a Telecommunications Engineering student at the Federal University of Pará (UFPA), currently in the fourth semester and Researcher at the [Núcleo de P&D em Telecomunicações, Automação e Eletrônica](https://github.com/lasseufpa). I am interested in the areas of Machine Learning, Data Science and i like computer hardware as a hobby.
 
-## Some Projects
+## `~$ cat Some_Projects.txt`
 
 - 📡 [C MIMO](https://github.com/lasseufpa/c_mimo): Implementation of MIMO Digital Communication System for educational purposes. 
 - 🐾 [HungryPet](https://github.com/jvictorferreira3301/HungryPet_Comedouro): Programmable food dispenser using Arduino.
 - 📖 [Bootor](https://ai6g.org/books/dsp/AnalogandDigitalSignals.html#analog-and-digital-signals): LaTeX-based methodologies for automatic book generation using CI/CD with support for MathML 
 
-## Tools, Skills and Stats
+## `~$ Tools_Skills_Stats --help`
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
