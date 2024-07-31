@@ -8,7 +8,7 @@ I am a Telecommunications Engineering student at the Federal University of Pará
 - 🐾 [HungryPet](https://github.com/jvictorferreira3301/HungryPet_Comedouro): Programmable food dispenser using Arduino.
 - 📖 [Bootor](https://ai6g.org/books/dsp/AnalogandDigitalSignals.html#analog-and-digital-signals): LaTeX-based methodologies for automatic book generation using CI/CD with support for MathML 
 
-## `~$ Tools_Skills_Stats --help`
+## `~$ Tools&Skills&Stats --help`
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
