@@ -1,6 +1,6 @@
 ## `~$ whoami` 
 
-I am a Telecommunications Engineering student at the Federal University of Pará (UFPA), currently in the fourth semester and Researcher at the [Núcleo de P&D em Telecomunicações, Automação e Eletrônica](https://github.com/lasseufpa). I am interested in the areas of Machine Learning, Data Science and i like computer hardware as a hobby.
+I am a Telecommunications Engineering student at the Federal University of Pará (UFPA), currently in the fourth semester and Researcher at the [Núcleo de P&D em Telecomunicações, Automação e Eletrônica](https://github.com/lasseufpa). I have experience with research projects centered on fifth-generation (5G) mobile networks, particularly in clock synchronization tasks utilizing IA models. I am interested in the areas of Machine Learning, Data Science, Cryptography and i like computer hardware as a hobby.
 
 ## `~$ cat Projects.txt`
 
