@@ -2,13 +2,6 @@
 
 I am a Telecommunications Engineering student at the Federal University of Pará (UFPA), currently in the fourth semester. I have experience with research projects centered on fifth-generation (5G) mobile networks, particularly in clock synchronization tasks utilizing IA models. I am interested in the areas of Machine Learning, Data Science, Cryptography and i like computer hardware as a hobby.
 
-## `~$ cat Projects.txt`
-
-- 📡 [C MIMO](https://github.com/lasseufpa/c_mimo): Implementation of MIMO Digital Communication System for educational purposes. 
-- 🐾 [HungryPet](https://github.com/jvictorferreira3301/HungryPet_Comedouro): Programmable food dispenser using Arduino.
-- 📖 [Bootor](https://ai6g.org/books/dsp/AnalogandDigitalSignals.html#analog-and-digital-signals): LaTeX-based methodologies for automatic book generation using CI/CD with support for MathML.
-- 🪙 [₿itPricePrev](https://github.com/jvictorferreira3301/BitPricePrev): A simple application to view current price of Bitcoin and forecasting future price.
-
 ## `~$ sudo tools && skills && stats`
 
 ###
