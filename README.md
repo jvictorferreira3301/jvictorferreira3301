@@ -1,6 +1,6 @@
 ## `~$ whoami` 
 
-I am a Telecommunications Engineering student at the Federal University of Pará (UFPA), currently in the fourth semester. I have experience with research projects centered on fifth-generation (5G) mobile networks, particularly in clock synchronization tasks utilizing IA models. I am interested in the areas of Machine Learning, Data Science, Cryptography and i like computer hardware as a hobby.
+I am a Telecommunications Engineering student at the Federal University of Pará (UFPA), currently in the fifth semester. I have experience with research projects centered on fifth-generation (5G) mobile networks, particularly in clock synchronization tasks utilizing IA models. I am interested in the areas of Machine Learning, Data Science, Cryptography and i like computer hardware as a hobby.
 
 ## `~$ tools && skills && stats`
 
