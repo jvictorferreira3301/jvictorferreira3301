@@ -8,12 +8,12 @@ I am a Telecommunications Engineering student at the Federal University of Pará
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="50" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="50" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="50" alt="c logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/anaconda/anaconda-original.svg" height="50" alt="anaconda logo"  />
   <img width="12" />
