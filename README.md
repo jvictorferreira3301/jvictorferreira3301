@@ -57,6 +57,9 @@ I am a Telecommunications Engineering student at the [Federal University of Par√
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jvictorferreira3301&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0BF700&width=435&lines=%3E%3A+4+8+15+16+23+42)](https://git.io/typing-svg)
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0BF700&width=435&lines=%3E%3A+4+8+15+16+23+42" alt="Typing SVG">
+  </a>
+</div>
 
