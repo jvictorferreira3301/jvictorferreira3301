@@ -1,8 +1,8 @@
-## `~$ whoami` 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0BF700&width=435&lines=~%24+whoami)](https://git.io/typing-svg) 
 
 I am a Telecommunications Engineering student at the [Federal University of Par√° (UFPA)](https://ufpa.br/) and access network intern at [TIM Brasil](https://www.linkedin.com/company/timbrasil). I have experience with research projects centered on fifth-generation (5G) mobile networks, particularly in clock synchronization tasks utilizing IA models. I am interested in the areas of Machine Learning, Data Science, Cryptography and i like computer hardware as a hobby.
 
-## `~$ tools && skills && stats`
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0BF700&width=435&lines=~%24+tools+%26%26+skills+%26%26+stats)](https://git.io/typing-svg)
 
 ###
 
@@ -57,5 +57,6 @@ I am a Telecommunications Engineering student at the [Federal University of Par√
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jvictorferreira3301&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0BF700&width=435&lines=%3E%3A+4+8+15+16+23+42)](https://git.io/typing-svg)
 
 
