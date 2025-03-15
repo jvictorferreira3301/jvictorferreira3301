@@ -45,6 +45,8 @@ I am a Telecommunications Engineering student at the [Federal University of Par√
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-plain.svg" height="50" alt="streamlit logo"  />
   <img width="12" />  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="70" alt="MySql logo"  />
+  <img width="16" />    
 </div>
 
 ###
